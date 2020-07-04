@@ -1,24 +1,10 @@
-.container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
+html {
+    background-color: greenyellow;
 }
-#header {
-    background: peru;
-    height: 100px;
-    width: 100px;
-    order: 1;
+h1 {
+    text-align: center;
+    text-decoration: underline;
 }
-#main {
-    background: green;
-    height: 100px;
-    width: 100px;
-    order: 2;
-}
-#footer {
-    background:blue;
-    height: 100px;
-    width: 100px;
-    order: 3;
+img {
+    justify-content: center;
 }
